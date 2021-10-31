@@ -18,8 +18,8 @@ const Header = () => {
                             className="common-text-color" as={HashLink} to="/home#services">Services</Nav.Link>
                         <Nav.Link
                             className="common-text-color" as={HashLink} to="/home#membership">Join Us</Nav.Link>
-                        <Nav.Link
-                            className="common-text-color" as={HashLink} to="/home#trainers">Our Trainers</Nav.Link>
+                        {/* <Nav.Link
+                            className="common-text-color" as={HashLink} to="/home#trainers">Our Trainers</Nav.Link> */}
                         <Nav.Link
                             className="common-text-color" as={HashLink} to="/register">Register</Nav.Link>
                         {user?.displayName ?

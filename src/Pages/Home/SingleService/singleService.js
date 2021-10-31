@@ -10,7 +10,7 @@ const CourseDetail = () => {
     const [service, setService] = useState({});
 
     useEffect(() => {
-        fetch(`http://localhost:5000/services/${serviceId}`)
+        fetch(`https://howling-plague-56867.herokuapp.com/services/${serviceId}`)
             .then((res) => res.json())
             .then((data) => setService(data));
     }, []);

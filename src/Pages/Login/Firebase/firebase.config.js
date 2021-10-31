@@ -6,12 +6,12 @@ const firebaseConfig = {
     // storageBucket: process.env.REACT_APP_firebase_STORAGE_BUCKET,
     // messagingSenderId: process.env.REACT_APP_firebase_MESSAGING_SENDER_ID,
     // appId: process.env.REACT_APP_firebase_APP_ID,
-    apiKey: "AIzaSyCbchc5q8z91Wnv467KCufgejiDvw7qyGY",
-    authDomain: "travellers-tour-agency-website.firebaseapp.com",
-    projectId: "travellers-tour-agency-website",
-    storageBucket: "travellers-tour-agency-website.appspot.com",
-    messagingSenderId: "233689014095",
-    appId: "1:233689014095:web:e78dd06c5824881b5eef3a"
+    apiKey: "AIzaSyBAGxaDkHYys8Swf4z1VTCYSbWt-oTKHac",
+    authDomain: "travellers-agency-website.firebaseapp.com",
+    projectId: "travellers-agency-website",
+    storageBucket: "travellers-agency-website.appspot.com",
+    messagingSenderId: "258872906922",
+    appId: "1:258872906922:web:c71abd2e2fb36ca2f56cd3"
 };
 // console.log(process.env);
 export default firebaseConfig;

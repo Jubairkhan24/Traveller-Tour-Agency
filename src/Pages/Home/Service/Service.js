@@ -10,7 +10,7 @@ const Service = ({ service }) => {
             <h3 className="mt-3 text-center">{name}</h3>
             <p className="px-3">{description}</p>
             <Link className="btn-style d-flex justify-content-center" to={`/booking/${_id}`}>
-                <button className="btn btn-design text-center">View Details</button>
+                <button className="btn btn-design text-center">Book Now</button>
             </Link>
         </div>
         // <div className="card-group">
