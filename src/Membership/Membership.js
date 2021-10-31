@@ -4,7 +4,7 @@ import './Membership.css'
 const Membership = () => {
     return (
         <div id="membership" className="mt-5">
-            <h5 className="common-text-color text-center mb-3">Become a part of our Gym</h5>
+            <h5 className="common-text-color text-center mb-3">Become a part of our Traveller Agency</h5>
             <h1 className="text-center mb-4">Membership Packages</h1>
             <p className="text-center text-secondary">We offer some special packages for our regular customer.</p>
             <p className="text-center text-secondary mb-5">Anyone can book more than 1 at a time</p>
