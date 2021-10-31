@@ -1,0 +1,44 @@
+[
+    {
+        "id": 142545435,
+        "name": "Bandarban",
+        "img": "https://i.ibb.co/G2yTXMj/kazuend-19-SC2oa-VZW0-unsplash.jpg",
+        "cost": 3000,
+        "description": "A very wonderful place to explore the beauty of nature with the hills and forests"
+    },
+    {
+        "id": 275645,
+        "name": "Sylhet",
+        "img": "https://i.ibb.co/m0nW4Mq/amit-ranjan-mh-JODzwz-Ctg-unsplash.jpg",
+        "cost": 3500,
+        "description": "It is one of the most beautiful division in Bangladesh. Tea gardens, hills, waterfalls, border side, river etc are the main attraction of Sylhet."
+    },
+    {
+        "id": 34235,
+        "name": "Coxs Bazar",
+        "img": "https://i.ibb.co/GVYY0Ds/sean-oulashin-KMn4-VEe-EPR8-unsplash.jpg",
+        "cost": 3000,
+        "description": "It is the longest sea beach in the world. People can enjoy sunset and sunrise here. There is also some popular sea beach points in Coxs Bazar"
+    },
+    {
+        "id": 42435,
+        "name": "Rangamati",
+        "img": "https://i.ibb.co/LtcKRvt/joshua-woroniecki-x-RVMO7d-Ybck-unsplash.jpg",
+        "cost": 5000,
+        "description": "A very wonderful place to explore the beauty of nature with the hills, rivers, waterfalls and forests"
+    },
+    {
+        "id": 6243546,
+        "name": "Tanguar Haor",
+        "img": "https://i.ibb.co/PrQFvvh/green-katsuto-u-8-RMv-Kl-Xf0-unsplash.jpg",
+        "cost": 5500,
+        "description": "A very beautiful haor to explore new experience"
+    },
+    {
+        "id": 94565,
+        "name": "Saint Martins Island",
+        "img": "https://i.ibb.co/r4sZ2vb/rowan-heuvel-U6t80-TWJ1-DM-unsplash.jpg",
+        "cost": 5500,
+        "description": "A very beautyful island to explore new experience. There is blue water and people enjoy the place when sun rises and fall down"
+    }
+]

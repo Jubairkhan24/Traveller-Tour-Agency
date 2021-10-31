@@ -1,0 +1,18 @@
+.common-background-style {
+    background-color: #fbfbfb;
+}
+.member-plan {
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+}
+.card-style {
+    box-shadow: 1px 1px 3px 3px #fbfbfb;
+}
+.member-btn-design {
+    background-color: transparent;
+    border: 1px solid black;
+}
+.member-btn-design:hover {
+    color: yellowgreen;
+    border: 2px solid yellowgreen;
+}

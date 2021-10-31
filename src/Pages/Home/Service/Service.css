@@ -1,0 +1,26 @@
+.service{
+    border-radius:20px ;
+}
+.service:hover {
+    box-shadow: 1px 1px 3px 3px yellowgreen;
+    border: 1ps solid;
+}
+.custom-img-resize {
+    height: 300px;
+    width: 418px;
+}
+.service img{
+    width: 100%;
+    border-radius: 20px;
+}
+.btn-style {
+    text-decoration: none;
+}
+.btn-design {
+    background-color: transparent;
+    border: 1px solid black;
+}
+.btn-design:hover {
+    color: yellowgreen;
+    border: 2px solid yellowgreen;
+}
