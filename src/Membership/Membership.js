@@ -14,6 +14,7 @@ const Membership = () => {
                     <div class="card card-style">
                         <div class="card-body ">
                             <h5 className="member-plan my-3 d-flex justify-content-center">Starter Plan</h5>
+                            {/* <h2>this is editable comment</h2> */}
                             <h1 class="card-title text-center">3000</h1>
                             <p className="text-center">2 days of tour</p>
                             <p className="text-center">Breakfast</p>
